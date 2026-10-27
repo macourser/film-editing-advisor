@@ -1,0 +1,4 @@
+interface:
+  display_name: "导演与剪辑指导"
+  short_description: "从创作判断到审片修改，结合有来源的导演与剪辑师风格库提出可执行方案"
+  default_prompt: "请使用 $film-editing-advisor，先理解这部作品的表达目标，给出计划，经我认可后审看片段、提出剪辑建议，并在需要时比较不同风格的处理。"
